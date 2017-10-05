@@ -151,7 +151,7 @@
     "doc": "doc"
   },
   "engines": {
-    "node": ">=6.0.0"
+    "node": ">=0.10.25"
   },
   "engineStrict": true
 }
